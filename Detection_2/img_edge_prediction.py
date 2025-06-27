@@ -13,7 +13,7 @@ import os
 from matplotlib.lines import Line2D
 
 
-load_prediction = True  # if prediction already is pre-saved
+load_prediction = False  # if prediction already is pre-saved
 debug = False  # output image
 debug_extra = False
 fine_debug = False  # also in between images
